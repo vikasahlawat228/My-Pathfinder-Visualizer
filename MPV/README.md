@@ -31,7 +31,7 @@ You may change the frequency of the visualization during runtime.
 
 See the running visualizer with A* algorithm:
 
-![Run]((https://github.com/vikasahlawat228/My-Pathfinder-Visualizer/blob/master/MPV/src/Run.gif))
+![Run](https://github.com/vikasahlawat228/My-Pathfinder-Visualizer/blob/master/MPV/src/Run.gif)
 
 ###  Color Key
 
