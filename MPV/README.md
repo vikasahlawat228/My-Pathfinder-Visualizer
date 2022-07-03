@@ -19,7 +19,7 @@ Setup
 * User defined execution speed
 * User defined start/goal/wall cells
 
-![Setup](MPV/src/Setup.gif)
+![Setup](https://github.com/vikasahlawat228/My-Pathfinder-Visualizer/blob/master/MPV/src/Setup.gif)
 
 Run with Variable Speed
 --
