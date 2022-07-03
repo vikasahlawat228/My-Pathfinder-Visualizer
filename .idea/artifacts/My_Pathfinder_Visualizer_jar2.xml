@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="My-Pathfinder-Visualizer:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/My_Pathfinder_Visualizer_jar2</output-path>
+    <root id="archive" name="My-Pathfinder-Visualizer.jar">
+      <element id="module-output" name="My-Pathfinder-Visualizer" />
+    </root>
+  </artifact>
+</component>
